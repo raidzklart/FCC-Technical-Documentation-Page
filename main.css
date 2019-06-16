@@ -1,0 +1,10 @@
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+.navlist {
+    padding: 0.8em;
+    padding-top: 1.2em;
+}
